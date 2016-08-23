@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ListViewExo</string>
+    <string name="copie">Copier une personne</string>
+    <string name="delete">Supprimer une personne</string>
 </resources>
